@@ -1,0 +1,10 @@
+{
+    "name": "lonely_soul/composer-package",
+    "authors": [
+        {
+            "name": "hechen",
+            "email": "936696547@qq.com"
+        }
+    ],
+    "require": {"monolog/monolog": "1.2.*"}
+}
